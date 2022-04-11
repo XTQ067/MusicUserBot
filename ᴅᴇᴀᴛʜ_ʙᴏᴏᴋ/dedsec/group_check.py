@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# YARASAMMC - YarasaMusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @XTQ_BAKAVOY
    
 import asyncio
 from pyrogram import Client, filters, emoji
@@ -35,8 +35,8 @@ async def list_voice_chat(client, ryui: Message):
         await pwn.delete()
         chat = await client.get_chat(chat_id)
         hawk = await ryui.reply_photo(
-            "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",   
-            caption=f"👨🏻‍💻 @RoBotlarimTg\n\nMən olduğum qruplar: \n**{chat.title}**"
+            "https://te.legra.ph/file/b79c36f7da02a8ed2b11f.jpg",   
+            caption=f"👨🏻‍💻 @YarasaMMC\n\nMən olduğum qruplar: \n**{chat.title}**"
             )   
     else:
         hawk = await ryui.reply_text("Hazırda heçbir qrupda oxumuram")
@@ -53,7 +53,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s | aykhan026
+               xtq_bakavoy  YARASA
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
