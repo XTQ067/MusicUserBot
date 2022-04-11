@@ -25,7 +25,7 @@ WHITE_COMMAND = Li.WHITE_COMMAND
                    ) 
 async def show_help(_, ryui: Message):
     if ded.msg.get('cmd') is not None:
-        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True)
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @YarasaMMC", True)
         await pwn.edit_text("♻️ Serverlə əlaqə qurulur...")
         await pwn.edit_text("♻️ Yüklənir [░░░░░░              ]")
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░        ]")
