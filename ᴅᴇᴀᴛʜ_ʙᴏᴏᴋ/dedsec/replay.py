@@ -29,7 +29,7 @@ async def restart_playing(_, ryui: Message):
     if not ded.playlist:
         return
 
-    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @YarasaMMC", True) 
     await pwn.edit_text("Serverlə əlaqə yaradılır...") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
