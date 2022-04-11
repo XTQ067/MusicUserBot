@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# YarasaMMC - YarasaMusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @XTQ_BAKAVOY
 
 import os
 import asyncio
@@ -33,7 +33,7 @@ async def mute(client, ryui: Message):
     chat = await client.get_chat(chat_id)    
     voice_chatting.set_is_mute(True)
     hawk = await ryui.reply_photo(
-            "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",   
+            "https://te.legra.ph/file/b79c36f7da02a8ed2b11f.jpg",   
             caption=f"**🔇 Səssizə alındım {chat.title}**"
             )              
     await delay_mute_tm((hawk, ryui), Kill_Time)  
@@ -46,7 +46,7 @@ async def delay_mute_tm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+                 YARASA
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
