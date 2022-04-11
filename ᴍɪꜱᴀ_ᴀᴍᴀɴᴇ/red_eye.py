@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# YarasaMMC - YarasaMusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @XTQ_BAKAVOY
 
 from pyrogram import filters, emoji
 from pyrogram.types import Message
@@ -39,7 +39,7 @@ misa_misa = filters.create(
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+                 YARASA
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
