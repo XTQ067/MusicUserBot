@@ -1,8 +1,8 @@
 
-# RoBotlarimTg - MusicUserBot
+# YarasaMMC - YarasaMusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @XTQ_BAKAVOY
 
 import os
 import ffmpeg
@@ -159,7 +159,7 @@ async def playout_ended_handler(_, __):
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-               aykhan_s
+                YARASA
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
