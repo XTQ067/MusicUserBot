@@ -24,7 +24,7 @@ DYNO_COMMAND = Li.DYNO_COMMAND
                    & filters.command("pause", prefixes=DYNO_COMMAND)
                    ) 
 async def pause_playing(_, ryui: Message):
-    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @YarasaMMC", True) 
     await pwn.edit_text("Serverlə əlaqə yaradılır...") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
