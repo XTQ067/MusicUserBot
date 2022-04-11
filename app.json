@@ -1,11 +1,11 @@
 
 
 {
-    "name": "MusicUserBot",
-    "description": "RoBotlarimTg - MusicUserBot Öz botunla səsli söhbətdə musiqidən həzz al",
-    "repository": "https://github.com/aykhan026/MusicUserBot.git",
-    "logo": "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",
-    "website": "https://t.me/RoBotlarimTg",
+    "name": "YarasaMusicUserBot",
+    "description": "YarasaMMC - MusicUserBot Öz botunla səsli söhbətdə musiqidən həzz al",
+    "repository": "https://github.com/XTQ067/MusicUserBot.git",
+    "logo": "https://te.legra.ph/file/b79c36f7da02a8ed2b11f.jpg",
+    "website": "https://t.me/YarasaMMC",
     "keywords": [
       "telegram",
       "userbot",
