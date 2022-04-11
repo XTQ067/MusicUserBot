@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# YarasaMMC - YarasaMusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @XTQ_BAKAVOY
 
 import os
 import asyncio
@@ -38,8 +38,8 @@ async def show_current_playing_time(_, ryui: Message):
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
         await pwn.delete()            
         hawk = await ryui.reply_photo(
-            "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",
-            caption="👨🏻‍💻 @RoBotlarımTg"
+            "https://te.legra.ph/file/b79c36f7da02a8ed2b11f.jpg",
+            caption="👨🏻‍💻 @YarasaMMC"
         )
         await wait_before_rm((hawk,), Kill_Time)                 
         return
@@ -64,7 +64,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+                 YARASA
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
