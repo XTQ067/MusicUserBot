@@ -1,11 +1,11 @@
-# 🔊 MusicUserBot
-## <a href="https://t.me/RoBotlarimTg">👨🏻‍💻 RoBotlarimTg</a>
-<img src="https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg" align="centre"/>
+# 🔊 YarasaMusicUserBot
+## <a href="https://t.me/YarasaMMC">👨🏻‍💻 YarasaMMC</a>
+<img src="https://te.legra.ph/file/b79c36f7da02a8ed2b11f.jpg" align="centre"/>
 
 
 
 ## ℹ️ Haqqında
-MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna sahib olacaqsınız
+YarasaMusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna sahib olacaqsınız
 
 ## ⬇️ Qurulum
 ###### Sizə lazım olanlar;
