@@ -27,14 +27,14 @@ async def join_voice_chatting(client, ryui: Message):
     voice_chatting = ded.voice_chatting
     voice_chatting.client = client
     if voice_chatting.is_connected:
-        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @YarasaMMC", True) 
         await pwn.edit_text("Serverlə əlaqə yaradılır...") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")   
         await pwn.delete()          
         await ryui.reply_text(
-            f"**MusicUserBot**\n✅ Qrupla əlaqə yaranıb\n"
+            f"**YarasaMusicUserBot**\n✅ Qrupla əlaqə yaranıb\n"
             )   
         return        
     await voice_chatting.start(ryui.chat.id)    
