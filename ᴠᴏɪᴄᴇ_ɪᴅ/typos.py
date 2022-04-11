@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# RoBotlarimTg - YarasaMusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @XTQ_BAKAVOY
 
 from pyrogram import filters
     
@@ -36,7 +36,7 @@ senzo_kryo_ni = filters.create(
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-               aykhan_s
+                YARASA
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
